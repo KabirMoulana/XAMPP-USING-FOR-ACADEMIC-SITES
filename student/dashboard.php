@@ -291,4 +291,4 @@ if ($_SERVER['REQUEST_METHOD']==='POST' && isset($_FILES['receipt'])) {
     </div><!-- /content -->
 </div><!-- /main -->
 </div><!-- /wrapper -->
-</body></html>
+</body></htl>
