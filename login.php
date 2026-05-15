@@ -128,7 +128,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <div class="back-link">
             <a href="index.php">← Back to Academy Website</a>
         </div>
-    </div
+        </div>
 
 </div>
 </body>
